@@ -10,7 +10,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/microsoft/vscode-remote-try-go/hello"
+	"github.com/josys-src/dev-container-go/module"
 )
 
 func handle(w http.ResponseWriter, r *http.Request) {

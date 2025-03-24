@@ -1,3 +1,3 @@
-module github.com/microsoft/vscode-remote-try-go
+module github.com/josys-src/dev-container-go
 
 go 1.19
